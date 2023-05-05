@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ritwika2004" target="blank"><img src="https://img.shields.io/twitter/follow/ritwika2004?logo=twitter&style=for-the-badge" alt="ritwika2004" /></a> </p>
 
-- 🌱 I’m currently learning **React Native, MERN**
+- 🌱 I’m currently learning **MERN Stack , DSA in Java**
 
 - 📝 I regularly write articles on [https://connectmindtoheart.blogspot.com/](https://connectmindtoheart.blogspot.com/)
 
