@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **MERN Stack , DSA in Java**
 
-- 📝 I ver frequently write articles on [https://connectmindtoheart.blogspot.com/](https://connectmindtoheart.blogspot.com/)
+- 📝 At times, I engage writing articles on [https://connectmindtoheart.blogspot.com/](https://connectmindtoheart.blogspot.com/)
 
 - 💬 Ask me about **JAVA, Competitive Programming , Frontend Development**
 
-- 📫 How to reach me **ritwika2004@gmail.com**
+- 📫 Mail ID- **ritwika2004@gmail.com**
 
-- ⚡ Fun fact **part time coder and full time procastinator**
+- ⚡ Fun fact- **part time coder and full time procastinator**
 
 <h4 align="left"> Portfolio: <a href="https://ritwika-14.github.io/My-Designer-s-Portfolio-/" target="_blank">My Designer Portfolio</a></h3>
 
