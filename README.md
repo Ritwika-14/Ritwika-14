@@ -26,9 +26,9 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/ritwika2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ritwika2004" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/https://www.linkedin.com/in/ritwika-mahapatra-a23232254](https://www.linkedin.com/in/ritwika-mahapatra-a23232254/)" 
+<a href="https://www.linkedin.com/in/ritwika-mahapatra-a23232254/" 
   target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ritwika-mahapatra-a23232254" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/ritwika14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ritwika14/" height="30" width="40" /></a>
+<a href="https://leetcode.com/RITWIKA14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ritwika14/" height="30" width="40" /></a>
 </p>
 
 <br>
