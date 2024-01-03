@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **MERN Stack , DSA in Java**
 
-- 📝 At times, I engage writing articles on [https://connectmindtoheart.blogspot.com/](https://connectmindtoheart.blogspot.com/)
+<!-- - 📝 At times, I engage writing articles on [https://connectmindtoheart.blogspot.com/](https://connectmindtoheart.blogspot.com/)
 
-- 💬 Ask me about **JAVA, Competitive Programming , Frontend Development**
+- 💬 Ask me about **JAVA, Competitive Programming , Frontend Development** -->
 
 - 📫 Mail ID- **ritwika2004@gmail.com**
 
